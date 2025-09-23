@@ -19,6 +19,7 @@ The data were split into training and test sets, and the text was converted into
 Three classification models including: _Multinomial Naive Bayes_, _Logistic Regression_, and _Support Vector Machine (SVM)_ were compared. Each model was evaluated using accuracy scores and confusion matrices
 
 **Token Analysis**
+
 token frequencies were extracted for ham vs. spam, and ratios of word occurrence in spam vs. ham messages were computed.
 
 The most spam-indicative tokens were identified.
