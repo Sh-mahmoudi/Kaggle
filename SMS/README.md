@@ -6,7 +6,7 @@ This project applies machine learning models to classify SMS messages as spam or
 Data Source: [Kaggle-SMS Spam Collection Dataset](https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset/data)
 
 
-The Jupyter notebook 'SMS.ipynb' contains all data preprocessing, modeling, and evaluation steps.
+The Jupyter notebook `SMS.ipynb` contains all data preprocessing, modeling, and evaluation steps.
 
 
 
